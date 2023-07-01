@@ -1,10 +1,11 @@
 import React from 'react'
 import pro from '../assets/pro.jpg'
+import pro1 from '../assests/portfolio/sort.png'
 const Projects = () => {
   const Project=[
     {
       id:1,
-      src:pro,
+      src:pro1,
 
     },
     {
