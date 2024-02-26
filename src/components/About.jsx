@@ -10,7 +10,6 @@ const About = () => {
                </p>
             </div>
             <p className='text-xl mt-20'>
-                
                Welcome to my professional portfolio website! I am delighted to showcase my work, skills, and accomplishments through this meticulously crafted platform. Leveraging the power of cutting-edge technologies, I have developed this site using ReactJS, designed with the sleek aesthetics of TailwindCSS, and deployed it on the reliable and secure Netlify platform.
               Throughout this website, you will find a comprehensive collection of my projects, demonstrating my expertise and proficiency in various domains. 
             <p className='text-xl'>
