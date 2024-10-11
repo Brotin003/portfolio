@@ -64,7 +64,7 @@ const SocialLinks = () => {
        <ul>
         {links.map(({id,href,style,child}) =>(
              // eslint-disable-next-line
-            <li key= {id}className={'flex justify-between items-center w-40 h-14 px-2 ml-[-80px] hover:ml-[-1px]  hover:rounded-md duration-300 bg-gray-500' + " " + style}>
+            <li key= {id}className={'flex justify-between items-center w-40 h-14 px-2 ml-[-110px] hover:ml-[-1px]  hover:rounded-md duration-300 bg-gray-500' + " " + style}>
             <a href={href} className='flex justify-between items-center w-full
             text-white' target='_blank'  rel="noreferrer">
                 {child}
